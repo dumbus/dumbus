@@ -2,9 +2,11 @@
 
 <picture> <img align="right" src="./images/about.gif" width = 200px> </picture>
 
-- ✨ I am a beginner FullStack developer
+- ✨ I am a Frontend developer
 
-- 📚 I am currently studying at [SPbSUT University](https://www.sut.ru/eng)
+- 📚 I am currently studying for a Master's degree in Web-Technologies at [ITMO University](https://en.itmo.ru/)
+
+- 📚 I have completed my Bachelor's degree in Information Security at [SPbSUT University](https://www.sut.ru/eng) 
 
 - 🌱 I am currently learning **NodeJS** and **ReactJS**
 
@@ -59,12 +61,6 @@ ___
 ___
 
 ## 📊 GitHub Stats:
-
-<div align="center">
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dumbus&show_icons=true&theme=transparent)
-
-</div>
 
 <div align="center">
 
