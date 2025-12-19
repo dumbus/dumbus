@@ -2,7 +2,7 @@
 
 <picture> <img align="right" src="./images/about.gif" width = 200px> </picture>
 
-- ✨ I am a Frontend / BI developer
+- ✨ I am a Frontend React developer
 
 - 📚 Currently studying for a Master's degree in Web-Technologies at [ITMO University](https://en.itmo.ru/)
 
@@ -29,10 +29,11 @@ ___
 
 - 🎓 Mentor at [Rolling Scopes School](https://rs.school/) (Jul 2025 - **Present**)
 <!-- -->
-- 💼 Employee of [Gazpprom Neft](https://www.gazprom-neft.ru/) as a **Frontend developer** (Dec 2024 - **Present**)
+- 💼 Employee of [T-Bank](https://www.tbank.ru/) as a **Frontend developer (React)** (Dec 2025 - **Present**)
+- 💼 Employee of [Gazpprom Neft](https://www.gazprom-neft.ru/) as a **Frontend / BI developer (React)** (Dec 2024 - Dec 2025)
 - 💼 Employee of [LLC "BIO-TEP"](https://bio-tep.ru/) as a **Web developer** (Jan 2023 - Dec 2024)
-- 💼 Internship at [Yandex](https://yandex.com/) as a **Frontend developer** (Jul 2022 - Oct 2022)
-- 💼 Internship at [EPAM Systems](https://www.epam.com/) as a **Frontend developer** (Jan 2022 - Jun 2022)
+- 💼 Internship at [Yandex](https://yandex.com/) as a **Frontend developer (React)** (Jul 2022 - Oct 2022)
+- 💼 Internship at [EPAM Systems](https://www.epam.com/) as a **Frontend developer (React)** (Jan 2022 - Jun 2022)
 <!-- -->
 - 📚 NodeJS course at [Rolling Scopes School](https://rs.school/) (2023)
 - 📚 Frontend course at [Rolling Scopes School](https://rs.school/) (2022)  
